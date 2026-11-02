@@ -1,6 +1,6 @@
 ## ISEL - Licenciatura em Engenharia Informática e de Computadores
 
-**NOTA:** Este é um exercício pessoal sobre o plano de estudos da LEIC. **Não** se trata de informação oficial *nem* é sequer um documento de trabalho institucional.
+**NOTA:** Este é um exercício pessoal sobre o plano de estudos da LEIC. **Não** constitui informação oficial nem documento de trabalho institucional.
 <br>
 
 ![Plano de Estudos da LEIC 2028+](LEIC-2028b.png)
@@ -9,13 +9,13 @@
 
 ### Distribuição de Créditos por Áreas Científicas
 
-| Área Científica                          | Sigla | ECTS Obrigatórios | ECTS Optativos |
-| ---------------------------------------- | :---: | :---------------: | :------------: |
-| Matemática                               |  MAT  |         24        |      0–12      |
-| Engenharia Informática e de Computadores |   IC  |        123        |      6–18      |
-| Engenharia Eletrónica e Telecomunicações |   ET  |         6         |      0–12      |
-| Competências Transversais                |   CT  |         3         |      6–12      |
-| **Total**                                |   —   |      **156**      |     **24**     |
+| Área Científica | Sigla | ECTS Obrigatórios | ECTS Optativos |
+| --------------- | :---: | :---------------: | :------------: |
+| Matemática      |  MAT  |         24        |      0–12      |
+| Engenharia Informática e de Computadores | IC | 123 |  6–18  |
+| Engenharia Eletrónica e Telecomunicações | ET |  6  |  0–12  |
+| Competências Transversais | CT |   3        |      6–12      |
+| **Total**       |   —   |      **156**      |     **24**     |
 
 *As quatro opções têm 6 ECTS cada. O percurso inclui pelo menos uma opção em IC e uma em CT. Os intervalos das áreas científicas não são independentes. Em Projeto e Seminário, 9 ECTS pertencem a IC e 3 ECTS a CT.*
 
@@ -87,8 +87,8 @@
 
 | Unidade Curricular | Área | Horas Totais | ECTS |
 | ------------------ | :--: | :----------: | :--: |
-| Computação na Nuvem | IC | 162 | 6 |
 | Projeto e Seminário | IC+CT | 324 | 12 |
+| Computação na Nuvem | IC | 162 | 6 |
 | Opção 6A | MAT/IC/ET/CT | 162 | 6 |
 | Opção 6B | MAT/IC/ET/CT | 162 | 6 |
 
